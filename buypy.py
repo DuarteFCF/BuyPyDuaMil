@@ -4,7 +4,7 @@ BuyPy
 A command-line backoffice application. This is an interactive 
 shell application
 
-(c) Joao Galamba, 2022
+(c)  Duarte Ferreira & Milton Cruz, 10/09/2022
 """
 
 import sys

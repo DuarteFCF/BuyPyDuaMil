@@ -1,7 +1,7 @@
 /*
     DDL for the BuyPy Online Store.
 
-    (c) Joao Galamba, 2022
+    (c)  Duarte Ferreira & Milton Cruz, 10/09/2022
  */
 SET SQL_SAFE_UPDATES = 0; -- Assim não precisamos de password sempre ...
 DELIMITER //

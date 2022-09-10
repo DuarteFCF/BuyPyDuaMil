@@ -1,7 +1,7 @@
 /*
     DML for the BuyPy Online Store.
 
-    (c) Joao Galamba, 2022
+    (c)  Duarte Ferreira & Milton Cruz, 10/09/2022
  */
 
 USE BuyPy;

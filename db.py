@@ -1,7 +1,7 @@
 """
 This module defines functions and classes related to DB access.
 
-(c) Joao Galamba, 2022
+(c)  Duarte Ferreira & Milton Cruz, 10/09/2022
 """
 
 from hashlib import sha256 as default_hashalgo
